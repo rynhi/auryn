@@ -68,7 +68,7 @@
   width: 100%;
   top: 0px;
   left: 0px;
-  background: #DEB887;
+  background: #3A2D2D;
   opacity: 0.9; }
   .main-navigation .main-navigation__ul {
     position: absolute;
@@ -78,7 +78,7 @@
     padding: 3%;
     border: 2px solid #fff;
     border-radius: 7px;
-    background-color: #c18f59; }
+    background-color: #C0C0C0; }
     .main-navigation .main-navigation__ul li {
       margin-bottom: 20px;
       list-style: none; }
@@ -103,7 +103,7 @@
 .bar1, .bar2, .bar3 {
   width: 30px;
   height: 3px;
-  background-color: #c18f59;
+  background-color: #F6F6F6;
   margin: 6px 0;
   transition: 0.4s; }
 
